@@ -9,3 +9,4 @@ def longestCommonPrefix(strs):
                 return shortest[:i]
     return shortest
 print longestCommonPrefix(["flower","flow","flight"])
+//sdckhukdshhcishi
