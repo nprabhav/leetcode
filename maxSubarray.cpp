@@ -15,7 +15,7 @@ int maxSubArray(vector<int>& nums) {
 
 //this is modified
 //wow it worked
-//adijiaio
+//Thursday
 
 int main()
 {
