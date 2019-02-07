@@ -14,6 +14,8 @@ int maxSubArray(vector<int>& nums) {
 
 
 //this is modified
+//wow it worked
+//adijiaio
 
 int main()
 {
@@ -29,3 +31,5 @@ for i in range(1, len(nums)):
 
 
 //Can be solved by Kadane's Algorithm
+//git config --global user.email "nprabhav111@gmail.com"
+//git config --global user.name "nprabhav"
